@@ -8,12 +8,12 @@ plugins {
 }
 
 android {
-    namespace = "com.neatroots.instagramcloneapp"
+    namespace = "com.aqmalik.instagramcloneapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.neatroots.instagramcloneapp"
-        minSdk = 30
+        applicationId = "com.aqmalik.instagramcloneapp"
+        minSdk = 29
         targetSdk = 34
         versionCode = 1
         versionName = "1.0"

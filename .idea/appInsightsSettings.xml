@@ -8,8 +8,8 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="com.neatroots.instagramcloneapp" />
-                  <option name="mobileSdkAppId" value="1:1004199583154:android:1582f2650ff72f27e218ab" />
+                  <option name="appId" value="com.aqmalik.instagramcloneapp" />
+                  <option name="mobileSdkAppId" value="1:1004199583154:android:279b2a84ecf705b6e218ab" />
                   <option name="projectId" value="instgramclone123" />
                   <option name="projectNumber" value="1004199583154" />
                 </ConnectionSetting>
